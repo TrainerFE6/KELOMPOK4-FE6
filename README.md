@@ -6,7 +6,6 @@
 - Bootstrap CSS : Styling Dasar
 - Bootstrap Icons : Ikon - ikon di keseluruhan webpage
 - Javascript & JQuery : Function, Submit & Window Alert
-- 
 
 # Wireframe 
 Rancangan awal dari pembuatan website yang kami gunakan, sebagai berikut : [Wireframe](https://www.figma.com/file/HItIzeZuYirKZechRXgA3M/Wireframe?type=design&node-id=0-1&mode=design&t=C8M6j7q0Cnur6R1m-0)
