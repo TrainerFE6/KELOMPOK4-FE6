@@ -5,6 +5,7 @@
 # Library yang ada
 - Bootstrap CSS : Styling Dasar
 - Bootstrap Icons : Ikon - ikon di keseluruhan webpage
+- Google Fonts : Fonts di webpage
 - Javascript & JQuery : Function, Submit & Window Alert
 
 # Wireframe 
